@@ -31,6 +31,7 @@
     width: 100%;
     height: 55px;
     border-radius: 4px;
+    margin-bottom: 10px;
 }
 #color1{
     background: linear-gradient(to top left,#6bb0bc, #b154a0);
@@ -41,7 +42,7 @@
 .content-price{
     margin: 0 auto;
     width: 78%;
-    padding-top: 17px;
+    padding-top: 12px;
 }
 .currency{
     float: left;
@@ -57,6 +58,7 @@
 .period{
 
     font-size: 0.7em;
+    text-align: center;
 
 }
 .fixed-text{
