@@ -41,8 +41,9 @@
 }
 .content-price{
     margin: 0 auto;
-    width: 78%;
+    width: auto;
     padding-top: 12px;
+    display: table;
 }
 .currency{
     float: left;
